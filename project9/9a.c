@@ -78,5 +78,6 @@ int main(){
   printf("The median of your array is %.2f.\n",median);
   printf("The standard deviation of your array is %.2f.\n",standDev);
 
+return 0;
 
 }
