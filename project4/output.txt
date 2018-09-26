@@ -1,0 +1,50 @@
+$ 4a.exe
+Please enter the feet for your height: 6
+Please enter the inches for your height: 0
+We are the same height (6 feet 0 inches)
+dbrown22@GEm-0162-025698 /h/ECE251/hw4
+$ 4a.exe
+Please enter the feet for your height: 5
+Please enter the inches for your height: 10
+You are shorter then me, my height is 6 feet 0 inches
+dbrown22@GEm-0162-025698 /h/ECE251/hw4
+$ 4a.exe
+Please enter the feet for your height: 7
+Please enter the inches for your height: 1
+You are taller then me, my height is 6 feet 0 inches
+---------------------------------------------------------
+$ 4b.exe
+Please enter your age: 12
+You are most likely in middle school.
+You are not old enough to drive.
+You are not old enough to vote.
+You are not old enough to drink.
+You are not old enough to to be president.
+You are not old enough to receive social security.
+dbrown22@GEm-0162-025698 /h/ECE251/hw4
+$ 4b.exe
+Please enter your age: 19
+You are most likely in college.
+You are old enough to drive.
+You are old enough to vote.
+You are not old enough to drink.
+You are not old enough to to be president.
+You are not old enough to receive social security.
+dbrown22@GEm-0162-025698 /h/ECE251/hw4
+$ 4b.exe
+Please enter your age: 45
+You are most likely out of school.
+You are old enough to drive.
+You are old enough to vote.
+You are old enough to drink.
+You are old enough to to be president.
+You are not old enough to receive social security.
+dbrown22@GEm-0162-025698 /h/ECE251/hw4
+$ 4b.exe
+Please enter your age: 65
+You are most likely out of school.
+You are old enough to drive.
+You are old enough to vote.
+You are old enough to drink.
+You are old enough to to be president.
+You are old enough to receive social security.
