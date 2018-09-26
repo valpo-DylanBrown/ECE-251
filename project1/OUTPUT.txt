@@ -1,0 +1,18 @@
+ASSIGNMENT 2A OUTPUT
+$ 2a.exe
+There are 30 students in the classroom.
+Are the 30 students working hard, or "hardly" working?
+
+ASSIGNMENT 2B OUTPUT
+
+CASE 1
+
+$ 2b.exe
+Please enter your temperature to the nearest degree Fahrenheit: 32
+That temperature corresponds to  0 degrees Celsius
+
+CASE 2
+
+$ 2b.exe
+Please enter your temperature to the nearest degree Fahrenheit: 212
+That temperature corresponds to  100 degrees Celsius

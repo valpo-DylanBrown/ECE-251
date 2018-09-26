@@ -1,0 +1,41 @@
+$ 3a.exe
+Please enter the radius of your circle: 10
+The area of a polygon with 3 sideswith radius 10 is 129.90
+The area of a polygon with 4 sideswith radius 10 is 200.00
+The area of a polygon with 5 sideswith radius 10 is 237.76
+The area of a polygon with 6 sideswith radius 10 is 259.81
+The area of a polygon with 10 sideswith radius 10 is 293.89
+The area of a polygon with 20 sideswith radius 10 is 309.02
+The area of a polygon with 30 sideswith radius 10 is 311.87
+The area of a circle of radius 10 is 314.16
+
+$ 3b.exe
+Please enter the one side of your triangle (in inches): 10
+Please enter another side of your triangle (in inches): 20
+Please enter the angle between those two sides (in degrees): 50
+The area of your triangle is 76.604 square inches
+
+$ 3c.exe
+Please enter the price of the first item (in dollars and cents: 321.56
+Please enter the price of the second item (in dollars and cents: 123.45
+Please enter the price of the third item (in dollars and cents: 99.66
+Please enter the price of the fourth item (in dollars and cents: 1.99
+Please enter the price of the fifth item (in dollars and cents: 72.50
+===================
+===Sales Invoice===
+===================
+Item #1:  321.56
+Item #2:  123.45
+Item #3:   99.66
+Item #4:    1.99
+Item #5:   72.50
+Subtotal: 619.16
+Tax:       43.34
+Total:    662.50
+
+$ 3ec.exe
+Please enter the one side of your triangle (in inches): 10
+Please enter another side of your triangle (in inches): 20
+Please enter the angle between those two sides (in degrees): 50
+The area of your triangle is 76.604445 square inches
+The area of your triangle using Heron's formula 76.604439 square inches
