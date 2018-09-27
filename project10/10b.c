@@ -1,4 +1,3 @@
-/* Program H Checking the dictionary for a word*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -9,8 +8,9 @@ int main (void)
  char dictionary[NUMWORDS][MAXLENGTH];
  char inputString[MAXLENGTH];
  int i;
+ int j;
  int wordFound=0;
- float percent;
+ char temp[MAXLENGTH];
  //This section of the code reads the contents
  //of Dictionary1.txt into dictionary[][].
  freopen("./Dictionary1.txt", "r", stdin);
@@ -19,27 +19,28 @@ int main (void)
  fflush(stdin);
  //End of file access section of the program.
 
- printf("Please enter a word:");
+ printf("Please enter a word, with unknown letters as '-':");
  scanf(" %s", &inputString);
 
  for (i=0; i<NUMWORDS; i++) //search through all words in the dictionary
  {
- if(strcmp(dictionary[i],inputString)==0)
-{
-   wordFound=1;
-   break;
-}
+   if (strlen(inputString) == strlen(dictionary[i]))
+   {
+     strcpy(temp,inputString);
+     for (j=0; j<=strlen(temp);j++)
+     {
+       if (temp[j] == '-'){
+          temp[j] = dictionary[i][j];
+       }
+     }
+     if(strcmp(dictionary[i],temp)==0)
+    {
+      printf("%s\n", dictionary[i]);
+    }
+    else{
+      continue;
+    }
+   }
  }
- if(wordFound==0)
- {
-   printf("Sorry, that word is not in the dictionary.");
- }
- else {
-   percent = (float)i/NUMWORDS*100;
-   printf("Yes, that word is in the dictionary.\n");
-   printf("It is number #%i out of %d\n",(i+1), NUMWORDS);
-   printf("That is %.2f%% of the way through the dictionary\n",percent);
-   printf("The word before it is \"%s\"\n",dictionary[i-1]);
-   printf("The word after it is \"%s\"\n",dictionary[i+1]);
- }
+ return 0;
 }
