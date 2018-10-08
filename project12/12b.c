@@ -16,8 +16,8 @@ int main()
 
   fgets(string, 20, stdin);
   pString = string;
-  for (operator=42; operator < 46; operator++){
-    if(operator!=44){
+  for (operator=42; operator < 47; operator++){
+    if(operator!=44 || operator!=46){
         pArithmeticOp = strchr(pString, operator);
         if (pArithmeticOp != NULL){
           break;
@@ -45,8 +45,10 @@ int main()
       break;
     case '/':
       printf("The result is %.2f\n", num1/num2);
+      break;
     default:
       printf("ERROR");
+      break;
   }
 return 0;
 }
