@@ -1,26 +1,26 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+#define ARRAYSIZE 10
 int main(){
-  int memSize = 10;
-  int i;
-  int *pStart;
-  int *pointer;
+  int* array = (int*)malloc(ARRAYSIZE*sizeof(int));
+  int i, j;
+  int *pArray = NULL;
+  pArray = array;
 
-  pStart = malloc(memSize*sizeof(int));
-  pointer = pStart;
-
-  for(i=10; i>0;i--){
-    *pointer = i*10;
-    printf("Element#%d: Value:%d\n", 10-i, *pointer);
-    //pointer++;
+  for(i =0, j=100; i<ARRAYSIZE; ++i,j-=10){
+    *(pArray+i)=j;
   }
-  int *pointer2 = pointer;
-  //printf("Pointer 1: %p\nPointer 2: %p\n", pointer, pointer2);
-
-  for(i=0; i<10; i++){
-    printf("%i\n", *(pointer2+i));
+  for(i=0; i<ARRAYSIZE; ++i){
+    *(pArray+i) += 5;
   }
-
-
+  for(i=0; i<ARRAYSIZE; ++i){
+    if(*(pArray+i) > 70){
+      *(pArray+i)*=-1;
+    }
+  }
+  for(i=0; i<ARRAYSIZE; ++i){
+    printf("Element #%d:, Address=%p, Value =%d\n", i, pArray+i, *(pArray+i));
+  }
+  return 0;
 }
