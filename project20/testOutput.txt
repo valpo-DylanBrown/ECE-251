@@ -1,0 +1,21 @@
+==============================
+Course: ECE 221 Section B
+Time: 900 - 950
+Days: Monday Wednesday Friday 
+Room: GEM 137
+Professor: Sami Khorbotly
+Semester: Fall 2017
+==============================
+Course: ECE 221 Lab Section C
+Time: 850 - 1120
+Days: Tuesday 
+Room: GEM 159
+Professor: Sami Khorbotly
+Semester: Fall 2017
+==============================
+Course: ECE 261 Lab Section E
+Time: 850 - 1120
+Days: Tuesday 
+Room: GEM 159
+Professor: Nicholas Fila
+Semester: Fall 2017

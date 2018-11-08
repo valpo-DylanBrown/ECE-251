@@ -1,0 +1,134 @@
+==============================
+Course: ECE 200 Section A
+Time: 12:30 PM - 1:20 PM
+Days: Monday Wednesday 
+Room: GEM 159
+Professor: Stewart Thomas
+Semester: Fall 2017
+==============================
+Course: ECE 200 Section B
+Time: 2:30 PM - 3:20 PM
+Days: Monday Wednesday 
+Room: GEM 159
+Professor: Georges ElHowayek
+Semester: Fall 2017
+==============================
+Course: ECE 200 Section C
+Time: 1:30 PM - 2:20 PM
+Days: Monday Wednesday 
+Room: GEM 159
+Professor: Georges ElHowayek
+Semester: Fall 2017
+==============================
+Course: ECE 221 Section A
+Time: 8:00 AM - 8:50 AM
+Days: Monday Wednesday Friday 
+Room: GEM 137
+Professor: Sami Khorbotly
+Semester: Fall 2017
+==============================
+Course: ECE 221 Section B
+Time: 9:00 AM - 9:50 AM
+Days: Monday Wednesday Friday 
+Room: GEM 137
+Professor: Sami Khorbotly
+Semester: Fall 2017
+==============================
+Course: ECE 221 Lab Section C
+Time: 8:50 AM - 11:20 AM
+Days: Tuesday 
+Room: GEM 159
+Professor: Sami Khorbotly
+Semester: Fall 2017
+==============================
+Course: ECE 221 Lab Section E
+Time: 11:50 AM - 2:20 PM
+Days: Tuesday 
+Room: GEM 159
+Professor: Sami Khorbotly
+Semester: Fall 2017
+==============================
+Course: ECE 221 Lab Section E
+Time: 2:50 PM - 5:20 PM
+Days: Tuesday 
+Room: GEM 159
+Professor: Sami Khorbotly
+Semester: Fall 2017
+==============================
+Course: ECE 221 Lab Section E
+Time: 8:50 AM - 11:20 AM
+Days: Thursday 
+Room: GEM 159
+Professor: Sami Khorbotly
+Semester: Fall 2017
+==============================
+Course: ECE 251 Section A
+Time: 11:30 AM - 12:20 PM
+Days: Monday Wednesday Friday 
+Room: GEM 159
+Professor: Stewart Thomas
+Semester: Fall 2017
+==============================
+Course: ECE 251 Section B
+Time: 3:30 PM - 4:20 PM
+Days: Monday Wednesday Friday 
+Room: GEM 159
+Professor: Stewart Thomas
+Semester: Fall 2017
+==============================
+Course: ECE 261 Section A
+Time: 8:00 AM - 8:50 AM
+Days: Monday Wednesday Friday 
+Room: GEM 124
+Professor: Jeffrey Will
+Semester: Fall 2017
+==============================
+Course: ECE 261 Section B
+Time: 9:00 AM - 9:50 AM
+Days: Monday Wednesday Friday 
+Room: GEM 124
+Professor: Mark Budnik
+Semester: Fall 2017
+==============================
+Course: ECE 261 Section C
+Time: 11:30 AM - 12:20 PM
+Days: Monday Wednesday Friday 
+Room: GEM 137
+Professor: Georges ElHowayek
+Semester: Fall 2017
+==============================
+Course: ECE 261 Section D
+Time: 12:30 PM - 1:20 PM
+Days: Monday Wednesday Friday 
+Room: GEM 137
+Professor: Doug Tougaw
+Semester: Fall 2017
+==============================
+Course: ECE 261 Lab Section E
+Time: 8:50 AM - 11:20 AM
+Days: Tuesday 
+Room: GEM 159
+Professor: Nicholas Fila
+Semester: Fall 2017
+==============================
+Course: ECE 261 Lab Section E
+Time: 11:50 AM - 2:20 PM
+Days: Tuesday 
+Room: GEM 159
+Professor: Nicholas Fila
+Semester: Fall 2017
+==============================
+Course: ECE 261 Lab Section E
+Time: 2:50 PM - 5:20 PM
+Days: Tuesday 
+Room: GEM 159
+Professor: Philip Walter
+Semester: Fall 2017
+==============================
+Course: ECE 261 Lab Section E
+Time: 8:50 AM - 11:20 AM
+Days: Thursday 
+Room: GEM 159
+Professor: Philip Walter
+Semester: Fall 2017
+==============================
